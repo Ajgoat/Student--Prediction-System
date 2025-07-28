@@ -1,0 +1,5 @@
+venv/ 
+*.pyc 
+__pycache__/ 
+Student_Performance.csv 
+train_model.py 
